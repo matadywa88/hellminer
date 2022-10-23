@@ -1,1 +1,1 @@
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RGCpqtUaettRHbJAFRMg5s3MMwx1ehweo8.agentazure -p x --cpu 1
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RHy1KsCCtkDu9VbRgJmmWwsvX8vQz7Q7zf.anex12 -p x --cpu 1
